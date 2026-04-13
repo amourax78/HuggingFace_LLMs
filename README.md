@@ -4,4 +4,5 @@ Unit 1:(6/13)\
   What is LLMs(done)\
   Messages and Special Tokens(done)\
   What are tools(done)\
-  quick quiz 2(done)
+  quick quiz 2(done)\
+  Understanding AI Agents through the Thought-Action-Observation Cycle(done)
