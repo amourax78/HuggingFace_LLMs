@@ -23,4 +23,6 @@ sorry for this week i just have a bad mood, the LAB class is such a thing, too m
 
 Ohm yeah, i have a bad new for me that next week might be my last efficient week in this semester, i am being surrounded by assignments now, the exams are coming as well. what else can we expect in this university. I wish i had more than 24 hours a day to handle these sorts of messes.  \ \ 
 
-I apologize for making you both read my complaints. See you next time in a meeting, perhaps.
+I apologize for making you both read my complaints. See you next time in a meeting, perhaps.\
+
+New update: i just barely done unit 2.1, not have many things to say here, see yah
